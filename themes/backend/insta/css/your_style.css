@@ -1,0 +1,12 @@
+.demo {
+    display: none !important;
+}
+nav li {
+    margin-top: 29px;
+}
+.text-right img {
+    display: none;
+}
+#datatable_fixed_column .fa-fw.fa.fa-edit {
+    font-size: 24px;
+}
